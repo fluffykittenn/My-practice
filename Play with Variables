@@ -1,0 +1,13 @@
+# My-practice
+var Zaika = "Зайка + ";
+undefined
+var love = Zaika + Zai4ik;
+undefined
+love
+"Зайка + Зайчик"
+var Zai4ik = "Зайчик = LOVE";
+undefined
+var love = Zaika + Zai4ik;
+undefined
+love
+"Зайка + Зайчик = LOVE"
